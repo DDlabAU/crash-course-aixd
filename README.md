@@ -19,3 +19,10 @@
 
 ## Resource til [Feather HUZZAH](https://github.com/DDlabAU/IoT)
 * Næsten samme board, men udviklet af Adafruit
+
+## Wearable tech
+* [DIY analog sensor kit](http://sensorfilmkit.com)
+* [Wearable guru (inspiration)](http://www.kobakant.at/DIY/)
+* [Bare conductive](https://www.bareconductive.com/)
+* [Stretch sensor](http://www.instructables.com/id/Circular-Knit-Stretch-Sensor/)
+* Thermo chromatic paint

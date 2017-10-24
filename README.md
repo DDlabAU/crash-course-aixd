@@ -25,4 +25,4 @@
 * [Wearable guru (inspiration)](http://www.kobakant.at/DIY/)
 * [Bare conductive](https://www.bareconductive.com/)
 * [Stretch sensor](http://www.instructables.com/id/Circular-Knit-Stretch-Sensor/)
-* Thermo chromatic paint
+* [Thermo chromatic paint](https://colourchanging.co.uk/)

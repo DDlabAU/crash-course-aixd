@@ -30,4 +30,5 @@
 
 # netværk
 ssid= ddiot
+
 password= ddlabiotworkshop

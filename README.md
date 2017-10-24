@@ -26,3 +26,8 @@
 * [Bare conductive](https://www.bareconductive.com/)
 * [Stretch sensor](http://www.instructables.com/id/Circular-Knit-Stretch-Sensor/)
 * [Thermo chromatic paint](https://colourchanging.co.uk/)
+
+
+# netværk
+ssid= ddiot
+password= ddlabiotworkshop
